@@ -1,3 +1,4 @@
 *.xlsx
 /downloads
 .ipynb_checkpoints
+/sustainability-reports

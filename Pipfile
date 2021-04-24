@@ -8,6 +8,7 @@ jupyter = "*"
 requests-html = "*"
 pymupdf = "*"
 nltk = "*"
+pandas = "*"
 
 [dev-packages]
 
